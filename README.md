@@ -1,6 +1,6 @@
 SLEEK Beamer Theme
 =================
-The [Beamer Classes](http://www.tex.ac.uk/CTAN/macros/latex/contrib/beamer/doc/beameruserguide.pdf) for LaTeX is used to create presentations that are to be shown with a projector. The text typesetting system creates PDF files.
+The [Beamer Class](http://www.tex.ac.uk/CTAN/macros/latex/contrib/beamer/doc/beameruserguide.pdf) for LaTeX is used to create presentations that are to be shown with a projector. The text typesetting system creates PDF files.
 	
 The theme for projectors presented here, adapted from HSRM theme by Benjamin Weiss, makes the creation of slides (assuming basic knowledge of LaTeX) child's play.
 
