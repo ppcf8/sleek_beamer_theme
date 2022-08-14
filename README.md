@@ -6,6 +6,4 @@ The theme presented here was adapted from [HSRM theme by Benjamin Weiss](https:/
 
 The SLEEK theme is licensed under the [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.en.html). It may be redistributed and modified as long as the licence type is maintained
 
-If you have any questions or comments, please do not hesitate to contact me at the following e-mail address.
-
-[up201806093@up.pt](mailto:up201806093@up.pt)
+If you have any questions or comments, contact me at [up201806093@up.pt](mailto:up201806093@up.pt)
